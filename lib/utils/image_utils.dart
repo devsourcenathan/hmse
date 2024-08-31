@@ -1,6 +1,6 @@
 class ImageUtils {
   /// Image
-  static const splashLogo = "assets/image/InfyHMS logo.png";
+  static const splashLogo = "assets/image/Logo.png";
   static const onBoardingBg = "assets/image/onBoardingBg.png";
   static const introOne = "assets/image/introOne.png";
   static const introTwo = "assets/image/introTwo.png";
@@ -25,13 +25,15 @@ class ImageUtils {
   static const alertIcon = "assets/icon/alert.png";
 
   static const bedAssignIcon = "assets/icon/doctor/bed_assign.png";
-  static const admissionIconForDoctor = "assets/icon/doctor/patient_admission_icon.png";
+  static const admissionIconForDoctor =
+      "assets/icon/doctor/patient_admission_icon.png";
   static const bedStatusIcon = "assets/icon/doctor/bed_status.png";
   static const doctorsIcon = "assets/icon/doctor/doctor.png";
   static const schedulesIcon = "assets/icon/doctor/schedules.png";
   static const myPayrollIcon = "assets/icon/doctor/my_payroll.png";
   static const reportsIcon = "assets/icon/doctor/report.png";
-  static const diagnosisTestDoctorIcon = "assets/icon/doctor/diagnosis_test_doctor.png";
+  static const diagnosisTestDoctorIcon =
+      "assets/icon/doctor/diagnosis_test_doctor.png";
 
   static const dropDownIcon = "assets/icon/doctor/drop_down.png";
   static const bedStatusRed = "assets/icon/doctor/bed_status_red.png";

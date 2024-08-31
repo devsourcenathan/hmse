@@ -1,4 +1,4 @@
-package com.example.infyhms_flutter;
+package com.estuaire.sante;
 
 import io.flutter.embedding.android.FlutterActivity;
 
